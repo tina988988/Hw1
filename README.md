@@ -8,4 +8,4 @@ If the range is successfully found, the answer will be shown.
 If failed, 'None' will be shown.
 Briefly, we give it a csv file and choose the target ID we want, then the result(include ID) will be shown on the screen. 
 
-(2)results:[['C0A880', 2.4], ['C0F9A0', 2.1], ['C0G640', 3.2], ['C0R190', 2.8], ['C0X260', 4.0]]
+(2)results: [['C0A880', 2.4], ['C0F9A0', 2.1], ['C0G640', 3.2], ['C0R190', 2.8], ['C0X260', 4.0]]
